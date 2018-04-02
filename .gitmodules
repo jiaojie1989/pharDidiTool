@@ -1,0 +1,3 @@
+[submodule "GithubHub"]
+	path = GithubHub
+	url = git@github.com:jiaojie1989/GithubHub.git
